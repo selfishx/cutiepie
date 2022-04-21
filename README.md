@@ -5,7 +5,7 @@
   <b>Evil-Inside</b>
 </h1>
 
-DEMO BOT - [Evil-Inside](https://telegram.dog/Evil_Inside_robot)
+OUR NETWORK - [CLASSY](https://telegram.dog/CLASSY_NETWORK)
  
 
 Hello i am TELEGRAM GROUP MANAGEMENT BOT MY NAME IS Evil-Inside ⚡ i have both amazing modules
