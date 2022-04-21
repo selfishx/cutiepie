@@ -53,7 +53,7 @@ HELP_STRINGS = """
 𝙰𝚗𝚍 𝚝𝚑𝚎 𝚏𝚘𝚕𝚕𝚘𝚠𝚒𝚗𝚐:
 """.format(dispatcher.bot.first_name, "" if not ALLOW_EXCL else "\n𝙰𝚕𝚕 𝚌𝚘𝚖𝚖𝚊𝚗𝚍𝚜 𝚌𝚊𝚗 𝚎𝚒𝚝𝚑𝚎𝚛 𝚋𝚎 𝚞𝚜𝚎𝚍 𝚠𝚒𝚝𝚑 / 𝚘𝚛 !.\n")
 
-TECHNO_IMG = "https://telegra.ph/file/10cf6a74f348caa0096b9.jpg"
+TECHNO_IMG = "https://te.legra.ph/file/30e1240386b38f41dea2b.jpg"
 IMPORTED = {}
 MIGRATEABLE = []
 HELPABLE = {}
@@ -146,15 +146,15 @@ def start(bot: Bot, update: Update, args: List[str]):
                 parse_mode=ParseMode.MARKDOWN, reply_markup=InlineKeyboardMarkup([[InlineKeyboardButton(text="𝙷𝙴𝙻𝙿",
                                                                        callback_data="help_back".format(bot.username)),
                                                                                    InlineKeyboardButton(text="𝙲𝙷𝙰𝙽𝙽𝙴𝙻",
-                                                                       url="t.me/M_STER_TECH")],
-                                                                                   [InlineKeyboardButton(text= "𝙳𝙴𝙿𝙻𝙾𝚈",
-                                                                       url="https://youtu.be/Bz8AUvN5bSo"),
-                                                                                   InlineKeyboardButton(text="𝚂𝙾𝚄𝚁𝙲𝙴 𝙲𝙾𝙳𝙴",
-                                                                       url="https://github.com/PANDITHAN/Evil-Inside")
+                                                                       url="t.me/classy_network_channel")],
+                                                                                   [InlineKeyboardButton(text= "NETWORK",
+                                                                       url="https://t.me/classy_network"),
+                                                                                   InlineKeyboardButton(text="CHATTING GROUP",
+                                                                       url="https://t.me/secretgroupc")
                                                                                  ]]))
 
     else:
-        update.effective_message.reply_text("Yuss, I am Already Online")
+        update.effective_message.reply_text("Yuss, I am online darling")
 
 
 def send_start(bot, update):
