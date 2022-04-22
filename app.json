@@ -36,7 +36,7 @@
       },
       "OWNER_NAME": {
          "description": "Your username",
-         "value": "PANDITHAN"
+         "value": "s_e_l_f_i_s_h_x_7"
       },
       "DEV_USERS": {
          "description": "ID of users who are Dev (can use /py etc.)",
@@ -45,7 +45,7 @@
       },
       "START_PIC": {
          "description": "Image shows when hit, users can can multiple photospace,pliting photo with space, togetpic: /start @MT_TelegraPH_Bot",
-         "value": "https://telegra.ph/file/8d8a7e610ca33690a6775.jpg"    
+         "value": "https://te.legra.ph/file/30e1240386b38f41dea2b.jpg"    
       },
       "GBAN_LOGS": {
          "description": "Gban log channel, include the hyphen too: ex: -123456",
@@ -112,7 +112,7 @@
       "manager",
       "bot"
    ],
-   "logo": "https://telegra.ph/file/e2a9d5c9eb9fd702f50d2.jpg",
-   "name": "Evil-Inside",
-   "repository": "https://github.com/PANDITHAN/Evil-Inside.git"
+   "logo": "https://te.legra.ph/file/30e1240386b38f41dea2b.jpg",
+   "name": "Cutiepie",
+   "repository": "https://github.com/Selfishx/Evil-Inside.git"
 }
