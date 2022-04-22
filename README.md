@@ -2,7 +2,7 @@
   <img src="https://te.legra.ph/file/30e1240386b38f41dea2b.jpg" alt="Evil-Inside Logo">
 </p>
 <h1 align="center">
-  <b>Evil-Inside</b>
+  <b>cutiepie</b>
 </h1>
 
 OUR NETWORK - [CLASSY](https://telegram.dog/CLASSY_NETWORK)
